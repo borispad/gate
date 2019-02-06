@@ -128,10 +128,10 @@
 [Gppw]
 	MainFrameWnd:
 		Maximize	TYPE_BOOL	TRUE
-		WindowLeft	TYPE_DWORD10	108
-		WindowTop	TYPE_DWORD10	112
-		WindowRight	TYPE_DWORD10	1644
-		WindowBottom	TYPE_DWORD10	934
+		WindowLeft	TYPE_DWORD10	54
+		WindowTop	TYPE_DWORD10	56
+		WindowRight	TYPE_DWORD10	1590
+		WindowBottom	TYPE_DWORD10	878
 		StatusBar	TYPE_BOOL	TRUE
 	BrowzerWnd:
 		BrowzerFloat	TYPE_BOOL	FALSE
@@ -347,18 +347,18 @@
 		MajorVersion	TYPE_DWORD10	8
 		MinorVersion	TYPE_STRING	"98C"
 	Project:
-		ProjectPath	TYPE_STRING	"F:\мойка\gate"
-		ProjectName	TYPE_STRING	"FX1N-10  ultrasonic new system3"
+		ProjectPath	TYPE_STRING	"F:\мойка"
+		ProjectName	TYPE_STRING	"gate"
 		ProjectComment	TYPE_STRING	" ultrasonic new system3"
 		ChildWndStyle	TYPE_BOOL	FALSE
 		SortType	TYPE_DWORD10	0
 	SaveTime:
 		Year	TYPE_DWORD10	2019
 		Month	TYPE_DWORD10	2
-		Day	TYPE_DWORD10	5
+		Day	TYPE_DWORD10	7
 		Hour	TYPE_DWORD10	0
-		Minute	TYPE_DWORD10	37
-		Second	TYPE_DWORD10	17
+		Minute	TYPE_DWORD10	6
+		Second	TYPE_DWORD10	28
 [Prg]
 	PrgOptDlg:
 		EditBlock	TYPE_WORD10	0
@@ -438,10 +438,10 @@
 		MonStatus	TYPE_BOOL	TRUE
 		DispStatus	TYPE_BOOL	FALSE
 		FloatState	TYPE_BOOL	TRUE
-		WindowLeft	TYPE_DWORD10	2232
-		WindowTop	TYPE_DWORD10	104
-		WindowRight	TYPE_DWORD10	2564
-		WindowBottom	TYPE_DWORD10	138
+		WindowLeft	TYPE_DWORD10	2234
+		WindowTop	TYPE_DWORD10	131
+		WindowRight	TYPE_DWORD10	2566
+		WindowBottom	TYPE_DWORD10	165
 	MonitorStartCond:
 		ExecCondition	TYPE_WORD10	0
 		ProgramName	TYPE_STRING	""
@@ -587,7 +587,7 @@
 		WindowType	TYPE_DWORD10	257
 		WindowLeft	TYPE_DWORD10	0
 		WindowTop	TYPE_DWORD10	0
-		WindowRight	TYPE_DWORD10	799
+		WindowRight	TYPE_DWORD10	1045
 		WindowBottom	TYPE_DWORD10	1249
 		Maximize	TYPE_BOOL	FALSE
 		Minimize	TYPE_BOOL	FALSE
@@ -597,13 +597,13 @@
 		FrameStat	TYPE_WORD10	1
 		StepNo	TYPE_DWORD10	-1
 		BlockNo	TYPE_WORD10	65535
-		StepPosition	TYPE_DWORD10	113
+		StepPosition	TYPE_DWORD10	126
 		ViewX	TYPE_DWORD10	0
-		ViewY	TYPE_DWORD10	1
+		ViewY	TYPE_DWORD10	0
 		WindowOrgX	TYPE_DWORD10	0
-		WindowOrgY	TYPE_DWORD10	16
-		CursorPositionX	TYPE_DWORD10	9
-		CursorPositionY	TYPE_DWORD10	15
+		WindowOrgY	TYPE_DWORD10	0
+		CursorPositionX	TYPE_DWORD10	4
+		CursorPositionY	TYPE_DWORD10	21
 		MonitorDispType	TYPE_DWORD10	0
 		DispLabelFlag	TYPE_BOOL	FALSE
 		DispLabelStyle	TYPE_BOOL	FALSE
